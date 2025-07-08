@@ -65,7 +65,7 @@ All connections are made on a breadboard. The key connections are:
 
 ## 📷 Project Preview
 
-![Project Preview](images/circuit.png)
+![Project Preview](circuit.png)
 
 ---
 
